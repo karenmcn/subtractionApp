@@ -1,0 +1,93 @@
+body{
+  background-color:#ff66cc;
+
+}
+
+h1{
+  font-family: 'Butterfly Kids', cursive;
+  text-align:center;
+  font-size: 5em;
+  color:white;
+  border-bottom-width:thick;
+  background:mediumvioletred;
+  width: 1150px;
+  margin: 20 auto;
+  
+}
+
+h2{
+  font-family: 'Fredoka One', cursive;
+  text-align:center;
+  font-size: 1.5em;
+  color:white;
+  width: 1150px;
+  margin: 20 auto;
+  padding:30px 30px 5px 30px;
+}
+#problem {
+  font-family: 'Fredoka One', cursive;
+  text-align:center;
+  font-size: 1.5em;
+  color:white;
+  width: 1150px;
+  margin: 20 auto;
+  padding:30px 30px 5px 30px;
+
+}
+
+.numbers{
+font-family: 'Fredoka One', cursive;
+text-align:center;
+font-size: 2em;
+color:white;
+padding:5px 30px 5px 30px;
+}
+#pictures1{
+  width: 1150px;
+  text-align:center;
+  display:inline-block;
+  margin: 20 auto;
+  padding:30px;
+
+}
+#pictures2{
+  width: 1150px;
+  text-align:center;
+  display:inline-block;
+  margin: 20 auto;
+  padding:30px;
+}
+
+#pawPrint{
+  font-family: 'Fredoka One', cursive;
+  text-align:center;
+  font-size: 1.5em;
+  color:white;
+  width: 1150px;
+  margin: 20 auto;
+}
+#kitten{
+  font-family: 'Fredoka One', cursive;
+  text-align:center;
+  font-size: 1.5em;
+  color:white;
+  width: 1150px;
+  margin: 20 auto;
+}
+#answer{
+  display:none;
+}
+
+footer{
+
+    font-family: 'Fredoka One', cursive;
+    text-align:center;
+    font-size: 1em;
+    color:white;
+    width: 1150px;
+    margin: 20 auto;
+}
+
+footer a{
+  text-decoration:none;
+}
